@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eli</h1>
+<h1 align="center">Hi! My name is Eli!</h1>
 <h3 align="center">I am a studying full-stack developer based near Chicago, Illinois</h3>
 
 - 🔭 I’m currently working on **Making a task manager, for sorting and organizing different todo lists for personal projects**
