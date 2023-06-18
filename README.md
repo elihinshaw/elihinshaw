@@ -1,17 +1,17 @@
 <h1 align="center">Hi! My name is Eli!</h1>
 <h3 align="center">I am a studying full-stack developer based near Chicago, Illinois</h3>
 
-- 🔭 I’m currently working on **Making a task manager, for sorting and organizing different todo lists for personal projects**
+- I’m currently working on **Making a task manager, for sorting and organizing different todo lists for personal projects**
 
-- 🌱 I’m currently learning **React.js**
+- I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/u/elihinshaw](https://github.com/u/elihinshaw)
+- All of my projects are available at [https://github.com/u/elihinshaw](https://github.com/u/elihinshaw)
 
-- 📝 I regularly write articles on my gist [https://gist.github.com/elihinshaw/2915b3894fa9308162e1e84f4099f31f](https://gist.github.com/elihinshaw/2915b3894fa9308162e1e84f4099f31f)
+- I regularly write articles on my gist [https://gist.github.com/elihinshaw/2915b3894fa9308162e1e84f4099f31f](https://gist.github.com/elihinshaw/2915b3894fa9308162e1e84f4099f31f)
 
-- 📫 How to reach me **eghinshaw@gmail.com**
+- How to reach me **eghinshaw@gmail.com**
 
-- ⚡ Fun fact **I really love solving various puzzles including rubiks cubes**
+- Fun fact **I really love solving various puzzles including rubiks cubes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
