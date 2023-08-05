@@ -1,10 +1,6 @@
 <h1 align="center">Hi! My name is Eli!</h1>
 <h3 align="center">I am a full-stack developer based in East Central Illinois</h3>
 
-- I’m currently working on **Making a task manager, for sorting and organizing different todo lists for personal projects**
-
-- I’m currently learning **React.js**
-
 - All of my projects are available at [https://github.com/elihinshaw](https://github.com/elihinshaw)
 
 - I regularly write articles on my gist [https://gist.github.com/elihinshaw/2915b3894fa9308162e1e84f4099f31f](https://gist.github.com/elihinshaw/2915b3894fa9308162e1e84f4099f31f)
