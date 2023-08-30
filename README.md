@@ -3,8 +3,6 @@
 
 - All of my projects are available at [https://github.com/elihinshaw](https://github.com/elihinshaw)
 
-- I regularly write articles on my gist [https://gist.github.com/elihinshaw/2915b3894fa9308162e1e84f4099f31f](https://gist.github.com/elihinshaw/2915b3894fa9308162e1e84f4099f31f)
-
 - How to reach me **eghinshaw@gmail.com**
 
 - Fun fact **I really love solving various puzzles including rubiks cubes**
